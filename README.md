@@ -32,7 +32,7 @@
  1 | 创神星 | Quaoar | a0522d | 赫色 | fang.j
  2 | 谷神星 | Ceres | 292421 | 象牙黑 | gwendol.j 
  3 | 水星 | Mercury | 808069 | 暖灰色 | angel.j 
- 4 | 金星 | Venus | ffd700 | 金黄色 | zhifei.j
+ 4 | 金星 | Venus | ffd700 | 金黄色 | dashu.j
  5 | 火星 | Mars | c1440e | 火星红 | mars.j 
  6 | 冥王星 | Pluto | 8a2be2 | 紫罗兰色 | 1024.j
  7 | 海王星 | Neptune | 0000ff | 蓝色 | catdog.j
