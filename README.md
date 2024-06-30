@@ -21,7 +21,7 @@
 
 ## On-chain Planet Configurations 链上星球配置
 
-最后更新时间：2024.6.29
+最后更新时间：2024.6.30
 
 - Planet NFT合约部署地址：0x77136ef358f55E20E7d51259fa47D3D68C9324db (owner暂时配置：jl.j)
 - JTI2Config合约部署地址：0x9c100856f5C60a3ec87Aa408567304DB2AfC241F (owner暂时配置：jl.j)
