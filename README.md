@@ -30,7 +30,7 @@
 -|-|-|-|-|-
  0 | 地球 | Earth | 5b92e5 | 联合国蓝 | -
  1 | 创神星 | Quaoar | a0522d | 赫色 | fang.j
- 2 | 谷神星 | Ceres | 292421 | 象牙黑 | gwendol.j 
+ 2 | 谷神星 | Ceres | 4682b4 | 铁青色 | gwendol.j 
  3 | 水星 | Mercury | 808069 | 暖灰色 | angel.j 
  4 | 金星 | Venus | ffd700 | 金黄色 | dashu.j
  5 | 火星 | Mars | c1440e | 火星红 | mars.j 
