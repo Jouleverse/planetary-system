@@ -8,4 +8,4 @@ Saturn读书俱乐部，期待您的加入，一起在知识的Saturn行星，�
 
 加入方式：请联系发起人Koant（微信号：Bean3042），开启您的读书之旅！
 
-详情请见：https://github.com/koant-bit/Koant-Jouleverse/blob/main/Saturn%E8%AF%BB%E4%B9%A6%E4%BF%B1%E4%B9%90%E9%83%A8.md
+详情请见：https://github.com/koant-bit/Koant-Jouleverse/blob/main/Saturn.md
