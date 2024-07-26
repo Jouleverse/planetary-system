@@ -1,5 +1,12 @@
 # Planetary System of Jouleverse. 焦耳宇宙行星系统
 
+## How To Create A New Planet 如何创立新的星球
+
+- 暂行规则：要求一：是核心贡献者；要求二：得到两位现有组长的推荐；要求三：愿意公开自己的联系方式，以便于想移民到该星球的新人联络
+- 星球名字可以自己提议，但最终要经过命名委员会/CGC会议审批确定
+
+更多信息请[点击此处阅读JTI2.0改革的讨论](https://github.com/Jouleverse/jti2/issues/1)
+
 ## Live Planets 活跃的星球
 
 最后更新时间：2024.7.26
