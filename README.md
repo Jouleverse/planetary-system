@@ -25,7 +25,7 @@
 9 | 土星 | Saturn | Koant | Bean3042 | - | [Saturn读书俱乐部](Saturn.md) | 2022.10.1 | Koant | - | 原9组
 10 | 木星 | Jupiter | 楼兰渔夫 | seasonsyoung | - | [木星生态项目开发基地](Jupiter.md) | 2022.10.1 | 楼兰渔夫 | - | 原10组 
 11 | 鸟神星 | Makemake | 煜歌 | yuge2738 | - | [鸟神星交易学社](Makemake.md) | 2024.6.25 | 煜歌 | 楼兰渔夫, Koant | - 
-12 | 开普勒星 | Kepler | 得葱 & Jeff | decong2077 | - | 区块链编程/- | 2024.9.1 | 得葱 & Jeff | Koant, 楼兰渔夫 | - 
+12 | 开普勒星 | Kepler | 得葱 & Jeff | decong2077 | - | [Kepler编程星球](https://github.com/kepler-planet) | 2024.9.1 | 得葱 & Jeff | Koant, 楼兰渔夫 | - 
 
 ## On-chain Planet Configurations 链上星球配置
 
