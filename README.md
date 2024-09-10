@@ -32,10 +32,24 @@
 
 最后更新时间：2024.9.10
 
-- Planet NFT合约部署地址：0x77136ef358f55E20E7d51259fa47D3D68C9324db (owner暂时配置：jl.j)
-- JTI2Config合约部署地址：0x9c100856f5C60a3ec87Aa408567304DB2AfC241F (owner暂时配置：jl.j)
+ **合约** | **部署地址** | **管理员地址/JNS**
+-|-|-
+ JTI2Config | 0x77136ef358f55E20E7d51259fa47D3D68C9324db | jl.j (暂)
+ Planet NFT | 0x9c100856f5C60a3ec87Aa408567304DB2AfC241F  | jl.j (暂)
+ JTI2 NFT | 0x7e722837Ff19BE2687c2089DBf70D064fB9622AE | jl.j (暂)
+ 
+JTI2Config配置：
+* 审计配置：
 
- **id** | **中文名** | **name** | **color** | **色彩名称** | **admin**
+ **审计人地址/JNS** | **社区身份** | **星球审计权限** | **JTI审计权限** | **生效日期**
+-|-|-|-|-
+evan.j | 教链 | ❌ | ✅ | 2024.7.1
+jl.j | 教链 | ✅ | ❌ | 2024.7.1
+??? | Koant | ✅ | ✅ | 2024.?.?
+
+* 各星球配置：
+
+ **id** | **中文名** | **name** | **color** | **色彩名称** | **admin地址/JNS**
 -|-|-|-|-|-
  0 | 地球 | Earth | 5b92e5 | 联合国蓝 | -
  1 | 创神星 | Quaoar | a0522d | 赫色 | fang.j
