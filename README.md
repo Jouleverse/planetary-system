@@ -9,7 +9,7 @@
 
 ## Live Planets 活跃的星球
 
-最后更新时间：2024.7.26
+最后更新时间：2024.9.10
 
 **id** | **行星名称** | **行星名称（英）** | **现任负责人(球长)** | **球长微信** | **球长变更历史** | **主题/详细介绍（链接）** | **创星时间** | **创始人** | **创立背书人** | **备注**
 -|-|-|-|-|-|-|-|-|-|-
@@ -26,10 +26,11 @@
 10 | 木星 | Jupiter | 楼兰渔夫 | seasonsyoung | - | [木星生态项目开发基地](Jupiter.md) | 2022.10.1 | 楼兰渔夫 | - | 原10组 
 11 | 鸟神星 | Makemake | 煜歌 | yuge2738 | - | [鸟神星交易学社](Makemake.md) | 2024.6.25 | 煜歌 | 楼兰渔夫, Koant | - 
 12 | 开普勒星 | Kepler | 得葱 & Jeff | decong2077 | - | [Kepler编程星球](https://github.com/kepler-planet) | 2024.9.1 | 得葱 & Jeff | Koant, 楼兰渔夫 | - 
+13 | 灶神星 | Vesta | 微尘 | ZGFSJS | - | 祝由术社区 | 2024.9.10 | 微尘 | 楼兰渔夫, Koant | - 
 
 ## On-chain Planet Configurations 链上星球配置
 
-最后更新时间：2024.7.21
+最后更新时间：2024.9.10
 
 - Planet NFT合约部署地址：0x77136ef358f55E20E7d51259fa47D3D68C9324db (owner暂时配置：jl.j)
 - JTI2Config合约部署地址：0x9c100856f5C60a3ec87Aa408567304DB2AfC241F (owner暂时配置：jl.j)
@@ -43,9 +44,11 @@
  4 | 金星 | Venus | ffd700 | 金黄色 | dashu.j
  5 | 火星 | Mars | c1440e | 火星红 | mars.j 
  6 | 冥王星 | Pluto | 8a2be2 | 紫罗兰色 | 1024.j
- 7 | 海王星 | Neptune | 0000ff | 蓝色 | kas.j <del>catdog.j</del>
+ 7 | 海王星 | Neptune | 0000ff | 蓝色 | kas.j
  8 | 天王星 | Uranus | 385e0f | 绿土 | 123.j
  9 | 土星 | Saturn | e3cf57 | 香蕉黄 | bit.j 
  10 | 木星 | Jupiter | c76114 | 肖贡土色 | china.j 
  11 | 鸟神星 | Makemake | fa5050 | 煜歌红 | yuge.j
  12 | 开普勒星 | Kepler | 79C14B | 极客绿 | dell.j
+ 13 | 灶神星 | Vesta | 7BAF4C | 生命绿 | zhuyoushu.j ?
+
